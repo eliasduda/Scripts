@@ -2,6 +2,7 @@
 using System;
 using UnityEngine;
 
+//Elias
 //Erstellt ein x mal x Grid welches an jeder Gridstelle ein GridObject speichert
 
 //!!! Grid arbeitet mit normalen koordinaten isometric coorinaten müssen den funktionen umgewandelt übergeben und danach zurückgefandelt werden !!!
